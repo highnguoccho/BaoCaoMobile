@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cà phê đen ",
+      "price": 30,
+      "description": "Xuất xứ: Buôn ma thuật",
+      "quantity": 1,
+      "salePrice": 25,
+      "img": "https://product.hstatic.net/1000075078/product/1639377797_ca-phe-den-da_6f4766ec0f8b4e929a8d916ae3c13254.jpg",
+      "brand": "Thái nguyên"
+    },
+    {
+      "id": 2,
+      "name": "Cà phê sữa",
+      "price": 25,
+      "description": "Xuất xứ: Buôn ma thuật",
+      "quantity": 1,
+      "salePrice": 20,
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fvi.wikipedia.org%2Fwiki%2FC%25C3%25A0_ph%25C3%25AA_s%25E1%25BB%25AFa_%25C4%2591%25C3%25A1&psig=AOvVaw37esMW9dmpbLMH7Ch3gs0m&ust=1702544343754000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLD_9YmGjIMDFQAAAAAdAAAAABAD",
+      "brand": "Thái nguyên"
+    },
+    {
+      "id": 3,
+      "name": "Bạc xỉu",
+      "price": 35,
+      "description": "Xuất xứ: Buôn ma thuật ",
+      "quantity": 1,
+      "salePrice": 30,
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dienmayxanh.com%2Fvao-bep%2Fbac-xiu-la-gi-nguon-goc-va-cach-lam-bac-xiu-thom-ngon-don-08388&psig=AOvVaw2-Y2_Yti3axytsu-nvO1rO&ust=1702544429215000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCMuLGGjIMDFQAAAAAdAAAAABAD",
+      "brand": "Thái nguyên"
+    },
+    {
+      "id": 4,
+      "name": "Bếp điện từ đơn Kangaroo KG20IH10 ",
+      "price": 40,
+      "description": "Xoài chín vàng xay nhuyễn cùng sữa đem lại hương vị tự nhiên của hoa quả ",
+      "quantity": 1,
+      "salePrice": 35,
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftrainghiemdi.com%2Flam-sinh-to-xoai-chuoi-thom%2F&psig=AOvVaw2g0cm8fmulE3VJLCRJGfIj&ust=1702544699889000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCXyrOHjIMDFQAAAAAdAAAAABAD",
+      "brand": "Thái nguyên "
+    },
+    {
+      "id": 5,
+      "name": "Sinh tối dưa hấu",
+      "price": 40,
+      "description": "Xay từ dưa hấu mát lạnh có thể tùy thích thêm sữa tươi hoặc sữa chua ",
+      "quantity": 1,
+      "salePrice": 35,
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cet.edu.vn%2Fcach-lam-nuoc-ep-dua-hau&psig=AOvVaw2UMrX6FgUR8mymxbwthn5z&ust=1702544785224000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjh0t2HjIMDFQAAAAAdAAAAABAD",
+      "brand": "Thái nguyên"
+    },
+    {
+      "id": 6,
+      "name": "Cappuccino",
+      "price": 36,
+      "description": "Xuất xứ: Thái nguyên",
+      "quantity": 1,
+      "salePrice": 33,
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCappuccino&psig=AOvVaw0zskrc3W-OpF48np-ftbL2&ust=1702544907307000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjx9ZWIjIMDFQAAAAAdAAAAABAI",
+      "brand": "Thái nguyên"
+    }
+  ],
+  "cart": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Cafe"
+    },
+    {
+      "id": 2,
+      "name": "Hoa quả "
+    },
+    {
+      "id": 3,
+      "name": "Hoa quả dầm"
+    },
+    {
+      "id": 4,
+      "name": "Dồ ăn kèm"
+    }
+  ],
+  "users": [
+    {
+      "id": "398132b3-19cd-4a3c-892e-80ad255b102e",
+      "username": "khanh",
+      "password": "1"
+    },
+    {
+      "id": "6ed9f7a7-017c-48e1-8356-a9a3fcea38f6",
+      "username": "duy",
+      "password": "1"
+    },
+    {
+      "username": "Khanh",
+      "password": "123",
+      "createdAt": 1701620381909,
+      "updatedAt": 1701620381909,
+      "id": "4Ww2RS7"
+    }
+  ]
+}
